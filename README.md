@@ -1,0 +1,2 @@
+# proje
+Stroke Prediction
